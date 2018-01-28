@@ -3,5 +3,6 @@
 	class Test2
 	{
 		//some comment
+		// added first comment
 	}
 }
