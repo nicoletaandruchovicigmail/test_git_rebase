@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace test_git_rebase
 {
-	class Test1
+	class Test1_renamed
 	{
 	}
 }
