@@ -8,5 +8,6 @@ namespace test_git_rebase
 {
 	class Test1_renamed
 	{
+		//Added first comment
 	}
 }
